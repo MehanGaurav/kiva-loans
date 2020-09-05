@@ -1,9 +1,12 @@
-# **UCL Data Science Society; Hackathon 2020**
+# **UCL Data Science Society; American Express Challenge 2020**
 
 ## *Data Science for Good - Kiva Crowdfunding*
 
 *Gaurav Mehan*
 05/09/2020
+
+## About the Author;
+Gaurav Mehan is a third-year Physics Student at UCL, and is passionate about Data Science for Good, as you will see in the project.
 
 ## Data sources; please download
 1. https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding 
@@ -30,3 +33,5 @@ Those that are starred I believe does not come by default on Ananconda.
 * And that is pretty much it, everything is self-contained within the notebook, so should be simple to run, including the details of my project so 
 please have a read through.
 * If there is anything that is confusing you or does not work, please feel free to email me in the email address inside the .ipynb file.
+
+### Enjoy, and thank you!
