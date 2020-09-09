@@ -17,7 +17,7 @@ Gaurav Mehan is a third-year Physics Student at UCL, and is passionate about Dat
   Although this is available from this repository.
 ## Quick-Start Guide:
 * The format of the project is as a Jupyter Notebook (.ipynb).
-* It is recommended that it is run on Google Colab with the three datasets (listed above) be uploaded on their.
+* It is recommended that it is run on Google Colab with the three datasets (listed above) be uploaded on there.
 * There are a couple of modules that I have used that you might have to install, notably;
   1. numpys,
   2. pandas*,
