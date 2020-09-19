@@ -6,7 +6,7 @@
 05/09/2020
 
 ## About the Author:
-Gaurav Mehan is a third-year Physics Student at UCL, and is passionate about Data Science for Good, as you will see in the project.
+Gaurav Mehan is a third-year Physics Student at UCL.
 
 ## Data sources: please download
 1. https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding 
