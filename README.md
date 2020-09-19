@@ -14,7 +14,7 @@ Gaurav Mehan is a third-year Physics Student at UCL.
   The reason for this is that the datasets are too large to be uploaded to this 
   repository and alternatively can be downloaded as ZIP file from the original Kaggle competition.
 2. https://data.worldbank.org/indicator/SP.POP.TOTL
-  Although this is available from this repository.
+
 ## Quick-Start Guide:
 * The format of the project is as a Jupyter Notebook (.ipynb).
 * It is recommended that it is run on Google Colab with the three datasets (listed above) be uploaded on there.
